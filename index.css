@@ -123,8 +123,10 @@ a{
 .items li a{
     color: #00cc99;
     padding: 5px 28px 5px;
+    width: 105px;
     background-color: rgba(250, 250, 250, 0.4);
     border: 1px solid #b6b6b6;
+    box-sizing: border-box;
 }
 .items li a:hover{
     background-color:#00cc99;
